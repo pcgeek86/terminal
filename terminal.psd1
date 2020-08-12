@@ -14,7 +14,7 @@
 
     PrivateData = @{
         PSData = @{
-            Tags = @('Microsoft', 'terminal', 'Windows 10')
+            Tags = @('Microsoft', 'terminal', 'Windows10')
             LicenseUri = 'https://github.com/pcgeek86/terminal'
             ProjectUri = 'https://trevorsullivan.net'
             IconUri = ''
