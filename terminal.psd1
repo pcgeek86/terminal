@@ -7,7 +7,11 @@
     Copyright = '2020 to Present Trevor Sullivan'
     Description = 'Provides value-add commands on top of Windows Terminal'
     FunctionsToExport = @(
-        'Install-TerminalScheme'
+        'Install-TerminalScheme',
+        'Set-TerminalColorScheme',
+        'Get-TerminalProfile',
+        'Get-TerminalColorScheme',
+        'Get-TerminalConfig'
     )
     AliasesToExport = @('')
     VariablesToExport = @('')
